@@ -22,7 +22,7 @@ int write_to_csv(
             printf("couldn't open the file, Hint: Maybe the file name is not correct or missing");
             return 1;
         }
-fprintf(poi,"NAMES  TYPES   HP\n\n\n\n");
+fprintf(poi,"NAMES,TYPES,HP\n\n\n\n");
  //wrinting info line by line we use for loop
 
         for (int i = 0; i < num; i++) {  // Change `i <= num` to `i < num`

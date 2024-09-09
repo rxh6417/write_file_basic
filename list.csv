@@ -1,6 +1,8 @@
-NAMES  TYPES  HP
+NAMES,TYPES,HP
+
+
+
 Nezuko_Kamado,Lower_demon,100
-Akaza,Upper_rank,500
-Muzan,BOSS,1000
-NAMES  TYPES   HP
+Akaza,Upper_Rank,500
+Muzan,Boss,1000
 Unkown_Hashira,Upper_rank,0
